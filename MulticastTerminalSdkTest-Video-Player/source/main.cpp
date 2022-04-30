@@ -18,8 +18,8 @@
 #include <windows.h>										// We need to include windows.h
 #include <stdio.h>											// Include stdio.h for the basics
 
-#define SCREEN_WIDTH  1280									//初始窗口大小
-#define SCREEN_HEIGHT 720									//
+#define SCREEN_WIDTH  1920									//初始窗口大小
+#define SCREEN_HEIGHT 1080									//
 
 #define SECTION_CONFIG					"Config"
 #define KEY_NAME_MULTICAST_IP			"MulticastIp"		//组播IP
